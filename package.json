@@ -41,7 +41,7 @@
     "typescript": "^3.9.7",
     "use-wallet": "^0.8.1",
     "web-vitals": "^1.0.1",
-    "web3": "1.2.8"
+    "web3": "1.7.5"
   },
   "scripts": {
     "start": "set PORT=8000 &&react-scripts start",
